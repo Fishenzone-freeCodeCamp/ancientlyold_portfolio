@@ -98,7 +98,6 @@ img {
 
 @media (max-width: 35em) {
   .simon {
-    height: 100%;
     margin-top: 6.5rem;
   }
 }
