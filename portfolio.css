@@ -104,7 +104,8 @@ img {
 
 .simon > p {
   text-align: center;
-  width: 70%;
+  justify-content: center;
+  width: 66%;
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
